@@ -5,7 +5,7 @@ An Application api written in Django for the project for rest api project source
 *[Django](https://www.djangoproject.com/): The python web framework that encourages development for clean and pragmatic design with less code.
 
 ## Installation 
-* If you wish to run your own build, first ensure you have python globally installed in your computer. If not, you can get pythonn [here] (https://www.python.org/downloads/).
+* If you wish to run your own build, first ensure you have python globally installed in your computer. If not, you can get python [here](https://www.python.org/downloads/).
 * After doing this, confirm that you have installed virtualenv globally as well. If not, run this:
     ```bash
         $ pip install virtualenv
